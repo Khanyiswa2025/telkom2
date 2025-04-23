@@ -1,0 +1,146 @@
+
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+    
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href=>
+
+    <title>Catalog>
+  <head>
+
+  </head>
+
+
+   <body>
+   <font-family: Ariel,sans-serif;>
+   margin: 0;
+   padding:0;
+   background: <div id="f4f4f4";</div>
+   </font-family:>body>
+
+
+    <header>
+    <p>background: #333
+    <color: igb="Blue"</color:>
+    <display:flex>
+    justify-content: <space-between></space-between>; </align-items>
+    </display:flex> <center>;padding: 1cm 2cm;</center> </p>
+    </header>
+
+
+
+    <logo> h1>Telkom logo</h1>
+        <img src="Telkom Logo .jpg">
+        width="200"
+        height="200">
+        font-size: 1.5cm;
+        <font-weight>Bold</font-weight> 
+    </logo>
+
+ 
+     <nav>
+     <ul <list-style:none;
+     display:flex;
+     gap:1cm>none</list-style:none>
+     </nav>
+
+     
+     <nav 
+     <ul li a<color:white;
+     text-decoration:none>white</color:white>
+    </nav>
+
+ 
+     
+    <main>
+     <p>padding:2cm</p>    
+     </main>
+
+    <home> <Telkom store>margin-botton: 2cm</home>
+ 
+ 
+   <h1>enquiry-form{display:flex;HP Laptop 15 15.6" FHD AMD Ryzen™ 5-7520U 16GB RAM 512GB SSD Diamond white
+    flex-direction:column;
+    gap: 1cm;
+    max-width:400px
+   </h1> 
+
+   
+   <h2> enquiry-form imput,
+    enquiry-form textarea{padding:0.8cm;https://www.telkom.co.za/catalogue.pdf?gclsrc=aw.ds&gad_source=1&gbraid=0AAAAADgrLWlIbwAOYsztTewLOYh_kQQV9
+    boader: 1px solid #ccc;
+    boader:radius: 5px;}
+   </h2>
+
+  
+   <h3>enquiry-form button{padding:0.8cm;
+    background: #333;
+    color:white;
+    boader:none;
+    cursor: pointer;}
+  </h3>  
+
+  <h1>Catalog{margin-botton:1cm}</h1>
+
+
+ <h1>products 1{ https://www.telkom.co.za/personal/devices/smartphones/alias/iphone13-5g-easterdeal/iphone13-5g-personal-128gb-midnightblack-onflexon2-pmx36-easterdeal?storage=128GB&iWouldlikeTo=New+contract&plan=FlexOn+2&planPeriod=PM+X+36}
+    grid-template-columns: repeat(auto-fit, minmax(180px,1fr));
+    gap:1.5cm;}
+ </h1>
+
+
+ <P>products 2{ apple-ipad-10-9-10th-generation-each-offer-49394926
+    background:white;
+    padding:1cm;
+    boader-radius: 8px;
+    text-align:center;
+    box-shadow:0 0 10px rgba(0,0,0,0.10);}</P>
+
+    
+ </p> <Product>iphone-16e-128gb-offer-49517004</Product>
+        width:100%;
+        height:about;
+        boader-radius: 6px;</body>p>
+
+   
+
+    <p><product class="R21,000">iphone-14-offer-49358519/</product>
+        color: green;src>
+        font-weight: Bold;>
+        margin:0.5cm 0};</p>
+    
+
+    <p>product <button>iphone-13-128gb-offer-49240091</button>
+        padding:0.5cm 1cm;
+        background:#007bff;
+        color: white;
+        boader:none
+        cursor:pointer;
+        boader-radius:4px;</p>
+    
+
+    <p>Socials a{
+        color:white;
+        margin-left: 1cm
+        text-decoration:none;
+        font-size: 1.2cm</p>
+    
+   
+ </body>              
+            
+
+ <footer>
+    <p> Khanyiswa;2025 
+        background:#222;
+        color:white;
+        padding: 1cm 2cm;
+        text-align: center;
+        display </p>
+
+ </footer>
+
+ </html>
+                      
+    

@@ -1,0 +1,263 @@
+body{
+    background-color: rgb(0, 204, 255);
+    background-image:image-set(Telkom logo)
+
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background: #f4f4f4;
+      }
+      header {
+        background: #333;
+        color: #fff;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1em 2em;
+      }
+      .logo {
+        font-size: 1.5em;
+        font-weight: bold;
+      }
+      nav ul {
+        list-style: none;
+        display: flex;
+        gap: 1em;
+      }
+      nav ul li a {
+        color: white;
+        text-decoration: none;
+      }
+      main {
+        padding: 2em;
+      }
+      .home .welcome {
+        margin-bottom: 2em;
+      }
+      .enquiry-form form {
+        display: flex;
+        flex-direction: column;
+        gap: 1em;
+        max-width: 400px;
+      }
+      .enquiry-form input,
+      .enquiry-form textarea {
+        padding: 0.8em;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+      }
+      .enquiry-form button {
+        padding: 0.8em;
+        background: #333;
+        color: white;
+        border: none;
+        cursor: pointer;
+      }
+      .catalog h1 {
+        margin-bottom: 1em;
+      }
+      .products {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+        gap: 1.5em;
+      }
+      .product {
+        background: white;
+        padding: 1em;
+        border-radius: 8px;
+        text-align: center;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      }
+      .product img {
+        width: 100%;
+        height: auto;
+        border-radius: 6px;
+      }
+      .product .price {
+        color: green;
+        font-weight: bold;
+        margin: 0.5em 0;
+      }
+      .product button {
+        padding: 0.5em 1em;
+        background: #007bff;
+        color: white;
+        border: none;
+        cursor: pointer;
+        border-radius: 4px;
+      }
+      footer {
+        background: #222;
+        color: white;
+        padding: 1em 2em;
+        text-align: center;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+      .socials a {
+        color: white;
+        margin-left: 1em;
+        text-decoration: none;
+        font-size: 1.2em;
+      } 
+
+
+      div class="card" style="width: 18rem;">
+      <img src="74C62AE1-1713-418D-B6BD-D53070E62043.jpeg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      </div></div>
+
+        <div class="card" style="width: 18rem;">
+          <img src="3D4DADCB-DD48-472D-97FB-72F8FF69A900.jpeg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          </div>
+        </div>
+
+        <div class="card" style="width: 18rem;">
+          <img src="catalogue.pdf" class="card-img-top" alt="...">
+          <div class="card-body">
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          </div>
+        </div>
+        
+        <div class="card" style="width: 18rem;">
+          <img src="ACC8F5F9-A27D-4F04-BB46-8334C3A51C44_4_5005_c.jpeg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          </div>
+        </div>
+
+        <div class="card" style="width: 18rem;">
+          <img src="4664A77C-F885-4409-9E7F-87745EA69E81.jpeg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          </div>
+        </div>
+
+        <div class="card" style="width: 18rem;">
+          <img src="F0B9FDD5-5AD5-4DD0-A23D-62FB436E2955.jpeg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          </div>
+        </div>
+
+        <div class="card" style="width: 18rem;">
+          <img src="Image 9.jpg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          </div>
+        </div>
+
+        <div class="card" style="width: 18rem;">
+          <img src="Image 11.jpg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          </div>
+        </div>
+
+        <div class="card" style="width: 18rem;">
+          <img src="Image 12.jpg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+   
+   
+   
+   
+   
+   
+ 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ 
+   
+   
+   
+   
+   
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+                     
+   
