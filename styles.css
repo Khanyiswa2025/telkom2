@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+#student-list {
+
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+  
+.student {
+  margin: 15px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  width: 150px;
+  border-radius: 10px;
+}
+
+.student img {
+  width: 100%;
+  border-radius: 5px;
+}

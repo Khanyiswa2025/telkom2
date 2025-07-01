@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Student Profiles</title>
+  <style>
+    .profile-card {
+      border: 1px solid #ccc;
+      padding: 15px;
+      margin-top: 20px;
+      display: none;
+      width: 300px;
+      background-color: #f9f9f9;
+    }
+
+    .clickable {
+      color: blue;
+      cursor: pointer;
+      text-decoration: underline;
+    }
+
+    table {
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+
+    table th, table td {
+      border: 1px solid #ddd;
+      padding: 8px;
+    }
+
+    table th {
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+
+<h2>Student List</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th><th></th><th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr onclick="showProfile('Babalwa Jiba', 26, 'NQF5 Software Development Student', 'babalwa@gmail.com')">
+      <td class="clickable">Babalwa Jiba</td><td></td><td>
+  <img src="/static/images/Student1 .jpg" width="200" length="200"></td> 
+    </tr>
+
+    <tr onclick="showProfile('Akhona Mthini', 22, 'NQF5 Software Development Student', 'akhona@gmail.com')">
+      <td class="clickable">Akhona Mthini</td><td></td><td>
+  <img src="/static/images/student2 copy.jpg" width="200" length="200">
+
+    </tr>
+    <tr onclick="showProfile('Ayanda Bolotina', 30, 'NQF5 Software Development Student', 'ayanda@gmail.com')">
+      <td class="clickable">Ayanda Bolotina</td><td></td><td>
+  <img src="/static/images/student3.jpg" width="200" length= "200">
+  
+    </tr>
+  </tbody>
+</table>
+
+<div id="studentProfile" class="profile-card">
+  <h3>Student Profile</h3>
+  <p><strong>Name:</strong> <span id="profileName"></span></p>
+  <p><strong>Age:</strong> <span id="profileAge"></span></p>
+  <p><strong>Grade:</strong> <span id="profileGrade"></span></p>
+  <p><strong>Email:</strong> <span id="profileEmail"></span></p>
+  
+  
+</div>
+
+<!-- ✅ JavaScript at the bottom (in footer) -->
+<script>
+  function showProfile(name, age, grade, email,) {
+    document.getElementById("profileName").innerText = name;
+    document.getElementById("profileAge").innerText = age;
+    document.getElementById("profileGrade").innerText = grade;
+    document.getElementById("profileEmail").innerText = email;
+ 
+
+    document.getElementById("studentProfile").style.display = "block";
+  }
+</script>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
